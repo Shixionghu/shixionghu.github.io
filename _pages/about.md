@@ -31,10 +31,9 @@ In my spare time, I love reading Philosophy works from Ludwig Wittgenstein. His 
 </font>
 </p>
 
-<p>
 <font face = "calibri">
 <strong>08/2023:</strong> I will take my preliminary exam in 2023 Fall.  
 </font>
-</p>
+
 
 
