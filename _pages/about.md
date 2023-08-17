@@ -10,14 +10,14 @@ redirect_from:
 
 <p>
 <font face = "calibri">
-Hi, I am Shixiong Hu. I am now a PhD student at the University of Connecticut, Department of Earth Sciences. I have board research interests in simulating past catastrophic climatic disasters and their infrastructure damages, including asteroid impacts, wildfires, and volcanic eruptions. Currently, I am fascinated with the Late Cretaceous-Paleogene Mass Extinction (66Ma), triggered by global wildfires coincident with the Chicxulub Asteroid impact that eliminated over 75% of the species on Earth. I have been using CESM-CARMA model on the Cheyenne supercomputer to perform climate simulations.
+Hi, I am Shixiong Hu. I am now a PhD student at the University of Connecticut, Department of Earth Sciences. I have broad research interests in simulating past catastrophic climatic disasters and their infrastructure damages, including asteroid impacts, wildfires, and volcanic eruptions. Currently, I am fascinated with the Late Cretaceous-Paleogene Mass Extinction (66Ma), triggered by global wildfires coincident with the Chicxulub Asteroid impact that eliminated over 75% of the species on Earth. I have been using CESM-CARMA model on the Cheyenne supercomputer to perform climate simulations.
 </font>
 </p>
 
 # More about me
 <p>
 <font face = "calibri">
-In my spare time, I love reading Philosophy works from Ludwig Wittgenstein. His work and quotes inspire me to keep moving and pursue a meaningful life. Moreover, I also love writing and reading fantasy novels.
+In my spare time, I love reading Philosophy works by Ludwig Wittgenstein. His work and quotes inspire me to keep moving and pursue a meaningful life. Moreover, I also love writing and reading fantasy novels.
 <p>
 "the world is everything that is the case" ------Ludwig Wittgenstein
 </p>
@@ -27,7 +27,7 @@ In my spare time, I love reading Philosophy works from Ludwig Wittgenstein. His 
 # Recent News:
 <p>
 <font face = "calibri">
-<strong>07/2023:</strong> I will present my work on AGU 2023 this winter !  
+<strong>07/2023:</strong> I will present my work on AGU 2023 this winter!  
 </font>
 </p>
 
