@@ -1,0 +1,104 @@
+---
+title: "Publications"
+description: "Publications, manuscripts, and conference abstracts by Shixiong Hu."
+---
+
+::: {.eyebrow}
+Publications & Works
+:::
+
+# Recent scholarly output.
+
+[Full Google Scholar profile](https://scholar.google.com/citations?hl=en&user=bmFRpDwAAAAJ&view_op=list_works&sortby=pubdate){.text-link}
+
+::: {.publication-list}
+::: {.publication-card}
+**2026**
+
+### Diagnostics of the K-Pg full-emission simulation suite and climate-refugia potential mapping
+
+Working manuscript and methods framework based on CESM2-WACCM/CARMA full-emission sensitivity experiments.
+
+*In Development, expected soon*
+:::
+
+::: {.publication-card}
+**2026**
+
+### Evidence for the origins of soot emissions from the Chicxulub asteroid impact at the Cretaceous-Paleogene boundary
+
+Hu, S., Tabor, C. R., Bardeen, C. G., Toon, O. B.
+
+*Ready to Submit*
+:::
+
+::: {.publication-card}
+**2025**
+
+### Isotopic evidence from a Brazos River Cretaceous/Paleogene boundary section consistent with a pulse of greenhouse warming shortly after the Chicxulub impact
+
+MacLeod, K. G., Huber, B. T., Tabor, C., Mitra, S., Wheatley, R., Harrison, C., and others.
+
+*Global and Planetary Change 253, 104924 - 3 citations on Scholar*
+:::
+
+::: {.publication-card}
+**2024**
+
+### Simulating the effects of emissions from meteor impacts
+
+Hu, S., Tabor, C. R., Bardeen, C., Robertson, D.
+
+*AGU Fall Meeting Abstracts 2024, NH54A-03*
+:::
+
+::: {.publication-card}
+**2024**
+
+### The impacts of ultraviolet radiation damage on phytoplankton productivity: From paleoclimate to future projections
+
+Coupe, J. L., Lovenduski, N. S., Gleason, L., Bardeen, C., Tabor, C. R., Hu, S., and others.
+
+*American Geophysical Union, Ocean Sciences Meeting, OB24B-0767*
+:::
+
+::: {.publication-card}
+**2023**
+
+### Exploring the effects of organic coating on soot emission at the Cretaceous-Paleogene mass extinction event
+
+Hu, S., Tabor, C. R., Bardeen, C.
+
+*AGU Fall Meeting Abstracts 2023, PP53E-1135*
+:::
+
+::: {.publication-card}
+**2023**
+
+### Simulating ultraviolet radiation damage of phytoplankton at the K-Pg boundary in CESM2-MARBL
+
+Coupe, J. L., Lovenduski, N. S., Gleason, L., Bardeen, C., Tabor, C. R., Hu, S., and others.
+
+*AGU Fall Meeting Abstracts 2023, PP53E-1138*
+:::
+
+::: {.publication-card}
+**2022**
+
+### Emission uncertainties of soot from an asteroid impact at the Cretaceous-Paleogene mass extinction event
+
+Hu, S., Tabor, C. R., Bardeen, C.
+
+*AGU Fall Meeting Abstracts 2022, NH12C-0297*
+:::
+
+::: {.publication-card}
+**2021**
+
+### Evaluation of the health risk of air pollution in major Chinese cities using a risk-based, multi-pollutant air quality health index during 2014-2018
+
+Liao, T., Jiang, W., Ouyang, Z., Hu, S., Wu, J., Zhao, B., Wang, B., Wang, S., Sun, Y.
+
+*Air Quality, Atmosphere & Health 14, 1605-1617 - 9 citations on Scholar*
+:::
+:::

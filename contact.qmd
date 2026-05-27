@@ -1,0 +1,18 @@
+---
+title: "Contact"
+description: "Contact links for Shixiong Hu."
+---
+
+::: {.eyebrow}
+Contact
+:::
+
+# For collaboration, talks, and research exchange.
+
+I am interested in collaborations connecting paleoclimate evidence, impact forcing, coupled Earth system modeling, and climate-chemical responses.
+
+::: {.contact-card}
+[Shixiong.hu@uconn.edu](mailto:Shixiong.hu@uconn.edu)
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=bmFRpDwAAAAJ&view_op=list_works&sortby=pubdate)
+:::

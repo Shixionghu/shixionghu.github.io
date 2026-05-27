@@ -1,0 +1,96 @@
+---
+title: "Shixiong Hu"
+description: "CESM and paleoclimate modeler studying K-Pg impact emissions, aerosols, atmospheric chemistry, and Earth system recovery."
+---
+
+::: {.hero}
+![](assets/cesm-paleoclimate-hero.png){.hero-image fig-alt="Scientific illustration of Earth system model grids, paleoclimate layers, and impact aerosols"}
+
+::: {.hero-copy}
+::: {.eyebrow}
+University of Connecticut - Earth Science
+:::
+
+# Modeling how abrupt shocks reshape Earth's climate system.
+
+I am a CESM and paleoclimate modeler studying Cretaceous-Paleogene impact emissions, soot aerosols, and coupled Earth system responses across atmosphere, ocean, land, and biology.
+
+[View work](publications.qmd){.button .primary} [Google Scholar](https://scholar.google.com/citations?hl=en&user=bmFRpDwAAAAJ&view_op=list_works&sortby=pubdate){.button} [Email](mailto:Shixiong.hu@uconn.edu){.button}
+:::
+:::
+
+::: {.metrics-band}
+::: {.metric}
+**Ph.D.**
+
+Earth Science, expected 2027
+:::
+
+::: {.metric}
+**CESM**
+
+Earth system modeling
+:::
+:::
+
+## Research Identity
+
+My work asks how short-lived, high-magnitude perturbations such as asteroid-impact emissions can reorganize climate, radiation, and chemical systems. I use CESM-based simulations to connect physical mechanisms with sedimentary and geochemical constraints from the geological record.
+
+Current projects focus on soot and charcoal source attribution, full-emission K-Pg sensitivity experiments, ozone and ultraviolet chemistry, climate-refugia potential mapping, and the uncertainty space around post-impact climate recovery.
+
+::: {.focus-band}
+::: {.focus-copy}
+::: {.eyebrow}
+Current Focus
+:::
+
+## Building K-Pg aerosol sensitivity simulations.
+
+Current work develops CESM-WACCM-CARMA experiments to isolate how aerosol forcing pathways shape post-impact climate, chemistry, and recovery after the Chicxulub impact.
+:::
+
+::: {.focus-list}
+**Model**  
+CESM2.1.3 with WACCM4 and CARMA aerosols
+
+**Evidence**  
+Vetted K-Pg soot, charcoal, and total carbon deposition sites
+
+**Question**  
+How does soot, dust, and sulfate contribute to the global catastrophe and post-impact recovery?
+:::
+:::
+
+## Research Program
+
+::: {.program-grid}
+::: {.program-card}
+**Paper 1**
+
+### Refining soot emissions associated with the Chicxulub impact
+
+Tests fire, impact-site, and mixed soot-emission scenarios against K-Pg carbon records. The key message is that soot can drive severe cooling and darkness even at low injected mass, but widespread fires are needed to better match the spatial pattern of preserved carbon deposition.
+
+- Fire, impact, fire-impact, and surface-emission cases
+- Model-proxy comparison across vetted K-Pg sites
+- Global cooling near 15 °C, over 99% light reduction, and precipitation collapse in extended cases
+:::
+
+::: {.program-card}
+**Paper 2 & 3**
+
+### Full-emission diagnostics and climate-refugia potential
+
+Full-Emission Simulations diagnostics on climatic and chemical responses.
+
+- Full Emission Scenarios
+- Coupled NOy-halogen-aerosol ozone-depletion mechanism
+:::
+:::
+
+## Ph.D. Research
+
+My Ph.D. research uses CESM-based Earth system simulations to investigate how aerosols and gases from the Chicxulub impact reshaped Earth's atmosphere, surface climate, radiation environment, and recovery pathways across the Cretaceous-Paleogene boundary.
+
+The work combines model development, aerosol microphysics, atmospheric chemistry, photolysis, and proxy-model comparison. A central aim is to determine which emission pathways can explain both the geological record and the severe short-term climate disruption inferred for the K-Pg mass extinction, while also building insight into the risks posed by future asteroid impacts.

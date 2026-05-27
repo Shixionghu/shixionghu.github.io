@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications & Works\n\n\nRecent scholarly output.\nFull Google Scholar profile\n\n\n2026\n\nDiagnostics of the K-Pg full-emission simulation suite and climate-refugia potential mapping\nWorking manuscript and methods framework based on CESM2-WACCM/CARMA full-emission sensitivity experiments.\nIn Development, expected soon\n\n\n\n2026\n\nEvidence for the origins of soot emissions from the Chicxulub asteroid impact at the Cretaceous-Paleogene boundary\nHu, S., Tabor, C. R., Bardeen, C. G., Toon, O. B.\nReady to Submit\n\n\n\n2025\n\nIsotopic evidence from a Brazos River Cretaceous/Paleogene boundary section consistent with a pulse of greenhouse warming shortly after the Chicxulub impact\nMacLeod, K. G., Huber, B. T., Tabor, C., Mitra, S., Wheatley, R., Harrison, C., and others.\nGlobal and Planetary Change 253, 104924 - 3 citations on Scholar\n\n\n\n2024\n\nSimulating the effects of emissions from meteor impacts\nHu, S., Tabor, C. R., Bardeen, C., Robertson, D.\nAGU Fall Meeting Abstracts 2024, NH54A-03\n\n\n\n2024\n\nThe impacts of ultraviolet radiation damage on phytoplankton productivity: From paleoclimate to future projections\nCoupe, J. L., Lovenduski, N. S., Gleason, L., Bardeen, C., Tabor, C. R., Hu, S., and others.\nAmerican Geophysical Union, Ocean Sciences Meeting, OB24B-0767\n\n\n\n2023\n\nExploring the effects of organic coating on soot emission at the Cretaceous-Paleogene mass extinction event\nHu, S., Tabor, C. R., Bardeen, C.\nAGU Fall Meeting Abstracts 2023, PP53E-1135\n\n\n\n2023\n\nSimulating ultraviolet radiation damage of phytoplankton at the K-Pg boundary in CESM2-MARBL\nCoupe, J. L., Lovenduski, N. S., Gleason, L., Bardeen, C., Tabor, C. R., Hu, S., and others.\nAGU Fall Meeting Abstracts 2023, PP53E-1138\n\n\n\n2022\n\nEmission uncertainties of soot from an asteroid impact at the Cretaceous-Paleogene mass extinction event\nHu, S., Tabor, C. R., Bardeen, C.\nAGU Fall Meeting Abstracts 2022, NH12C-0297\n\n\n\n2021\n\nEvaluation of the health risk of air pollution in major Chinese cities using a risk-based, multi-pollutant air quality health index during 2014-2018\nLiao, T., Jiang, W., Ouyang, Z., Hu, S., Wu, J., Zhao, B., Wang, B., Wang, S., Sun, Y.\nAir Quality, Atmosphere & Health 14, 1605-1617 - 9 citations on Scholar"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Presentations\n\n\nConference activity and community links.\n\n\n2026\n\nAssessing Short-Term Climate Change Across the Cretaceous-Paleogene Boundary with an Earth System Model\nOral presentation at Climatic and Biotic Events of the Paleogene 2026.\nWashington, DC, USA\n\n\n\n2025\n\nNSF-NCAR CESM Paleoclimate Working Group Meeting\nOral presentation on global soot deposition constraints for transient soot injection simulations.\nBoulder, CO, USA\n\n\n\n2025\n\nGSA Fall Meeting\nOral presentation on soot-emission origins associated with the Chicxulub impact.\nSan Antonio, TX, USA\n\n\n\n2024\n\nAGU Fall Meeting\nOral presentation on simulating the effects of emissions from meteor impacts.\nWashington, DC, USA\n\n\n\n2023\n\nAGU Fall Meeting\nPoster on organic coating effects on soot emissions at the K-Pg mass extinction event.\nSan Francisco, CA, USA\n\n\n\n2022\n\nAGU Fall Meeting\nPoster on soot-emission uncertainty after an asteroid impact at the K-Pg boundary.\nChicago, IL, USA"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Research Notes",
+    "section": "",
+    "text": "Research Notes\n\n\nA publishing lane for short, useful pieces.\n\n\nMethods note\n\nHow to compare K-Pg carbon records with CESM soot and charcoal deposition\n\n\n\nPaper explainer\n\nWhy small impact-site soot burdens can still generate severe global darkness\n\n\n\nWorkflow\n\nImpact-soot injections could potentially lead to Global Food Crisis"
+  },
+  {
+    "objectID": "toolkit.html",
+    "href": "toolkit.html",
+    "title": "Toolkit",
+    "section": "",
+    "text": "Modeling Toolkit\n\n\nMethods this site should grow around.\n\n\nCoupled climate experiments\nCESM experiment design, transient forcing scenarios, ensemble comparisons, and sensitivity tests.\n\n\nPaleoclimate constraints\nBoundary-section evidence, soot deposition records, isotopic signals, and proxy-model comparison.\n\n\nWACCM-CARMA\nCESM-WACCM-CARMA combines coupled Earth system boundary conditions, high-top atmospheric chemistry, and aerosol microphysics. It lets impact-emission experiments track soot, dust, sulfate, ozone chemistry, radiation, and climate recovery within one modeling framework."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research Themes"
+  },
+  {
+    "objectID": "research.html#current-direction",
+    "href": "research.html#current-direction",
+    "title": "Research",
+    "section": "Current Direction",
+    "text": "Current Direction\nCurrent work develops K-Pg aerosol sensitivity simulations that isolate the roles of soot, dust, and sulfate in global catastrophe and post-impact recovery. The broader goal is to connect emission-source hypotheses to observable geological records and physically interpretable climate outcomes."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\n\n\nFor collaboration, talks, and research exchange.\nI am interested in collaborations connecting paleoclimate evidence, impact forcing, coupled Earth system modeling, and climate-chemical responses.\n\nShixiong.hu@uconn.edu\nGoogle Scholar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shixiong Hu",
+    "section": "",
+    "text": "University of Connecticut - Earth Science\n\n\n\nI am a CESM and paleoclimate modeler studying Cretaceous-Paleogene impact emissions, soot aerosols, and coupled Earth system responses across atmosphere, ocean, land, and biology.\nView work Google Scholar Email"
+  },
+  {
+    "objectID": "index.html#research-identity",
+    "href": "index.html#research-identity",
+    "title": "Shixiong Hu",
+    "section": "Research Identity",
+    "text": "Research Identity\nMy work asks how short-lived, high-magnitude perturbations such as asteroid-impact emissions can reorganize climate, radiation, and chemical systems. I use CESM-based simulations to connect physical mechanisms with sedimentary and geochemical constraints from the geological record.\nCurrent projects focus on soot and charcoal source attribution, full-emission K-Pg sensitivity experiments, ozone and ultraviolet chemistry, climate-refugia potential mapping, and the uncertainty space around post-impact climate recovery.\n\n\n\nCurrent Focus\n\n\nBuilding K-Pg aerosol sensitivity simulations.\nCurrent work develops CESM-WACCM-CARMA experiments to isolate how aerosol forcing pathways shape post-impact climate, chemistry, and recovery after the Chicxulub impact.\n\n\n\nModel\nCESM2.1.3 with WACCM4 and CARMA aerosols\nEvidence\nVetted K-Pg soot, charcoal, and total carbon deposition sites\nQuestion\nHow does soot, dust, and sulfate contribute to the global catastrophe and post-impact recovery?"
+  },
+  {
+    "objectID": "index.html#building-k-pg-aerosol-sensitivity-simulations.",
+    "href": "index.html#building-k-pg-aerosol-sensitivity-simulations.",
+    "title": "Shixiong Hu",
+    "section": "Building K-Pg aerosol sensitivity simulations.",
+    "text": "Building K-Pg aerosol sensitivity simulations.\nCurrent work develops CESM-WACCM-CARMA experiments to isolate how aerosol forcing pathways shape post-impact climate, chemistry, and recovery after the Chicxulub impact."
+  },
+  {
+    "objectID": "index.html#research-program",
+    "href": "index.html#research-program",
+    "title": "Shixiong Hu",
+    "section": "Research Program",
+    "text": "Research Program\n\n\nPaper 1\n\nRefining soot emissions associated with the Chicxulub impact\nTests fire, impact-site, and mixed soot-emission scenarios against K-Pg carbon records. The key message is that soot can drive severe cooling and darkness even at low injected mass, but widespread fires are needed to better match the spatial pattern of preserved carbon deposition.\n\nFire, impact, fire-impact, and surface-emission cases\nModel-proxy comparison across vetted K-Pg sites\nGlobal cooling near 15 °C, over 99% light reduction, and precipitation collapse in extended cases\n\n\n\n\nPaper 2 & 3\n\nFull-emission diagnostics and climate-refugia potential\nFull-Emission Simulations diagnostics on climatic and chemical responses.\n\nFull Emission Scenarios\nCoupled NOy-halogen-aerosol ozone-depletion mechanism"
+  },
+  {
+    "objectID": "index.html#ph.d.-research",
+    "href": "index.html#ph.d.-research",
+    "title": "Shixiong Hu",
+    "section": "Ph.D. Research",
+    "text": "Ph.D. Research\nMy Ph.D. research uses CESM-based Earth system simulations to investigate how aerosols and gases from the Chicxulub impact reshaped Earth’s atmosphere, surface climate, radiation environment, and recovery pathways across the Cretaceous-Paleogene boundary.\nThe work combines model development, aerosol microphysics, atmospheric chemistry, photolysis, and proxy-model comparison. A central aim is to determine which emission pathways can explain both the geological record and the severe short-term climate disruption inferred for the K-Pg mass extinction, while also building insight into the risks posed by future asteroid impacts."
+  }
+]

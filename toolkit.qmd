@@ -1,0 +1,30 @@
+---
+title: "Toolkit"
+description: "Modeling toolkit and methods for CESM-WACCM-CARMA paleoclimate simulations."
+---
+
+::: {.eyebrow}
+Modeling Toolkit
+:::
+
+# Methods this site should grow around.
+
+::: {.toolkit-grid}
+::: {.toolkit-card}
+### Coupled climate experiments
+
+CESM experiment design, transient forcing scenarios, ensemble comparisons, and sensitivity tests.
+:::
+
+::: {.toolkit-card}
+### Paleoclimate constraints
+
+Boundary-section evidence, soot deposition records, isotopic signals, and proxy-model comparison.
+:::
+
+::: {.toolkit-card}
+### WACCM-CARMA
+
+CESM-WACCM-CARMA combines coupled Earth system boundary conditions, high-top atmospheric chemistry, and aerosol microphysics. It lets impact-emission experiments track soot, dust, sulfate, ozone chemistry, radiation, and climate recovery within one modeling framework.
+:::
+:::

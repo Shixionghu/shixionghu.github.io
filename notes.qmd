@@ -1,0 +1,30 @@
+---
+title: "Research Notes"
+description: "Short research-note topics for the Shixiong Hu academic website."
+---
+
+::: {.eyebrow}
+Research Notes
+:::
+
+# A publishing lane for short, useful pieces.
+
+::: {.notes-grid}
+::: {.note-card}
+**Methods note**
+
+### How to compare K-Pg carbon records with CESM soot and charcoal deposition
+:::
+
+::: {.note-card}
+**Paper explainer**
+
+### Why small impact-site soot burdens can still generate severe global darkness
+:::
+
+::: {.note-card}
+**Workflow**
+
+### Impact-soot injections could potentially lead to Global Food Crisis
+:::
+:::

@@ -1,0 +1,72 @@
+---
+title: "Talks"
+description: "Selected conference presentations by Shixiong Hu."
+---
+
+::: {.eyebrow}
+Presentations
+:::
+
+# Conference activity and community links.
+
+::: {.timeline}
+::: {.timeline-item}
+**2026**
+
+### [Assessing Short-Term Climate Change Across the Cretaceous-Paleogene Boundary with an Earth System Model](https://naturalhistory.si.edu/research/paleobiology/news-and-highlights/cbep-2026)
+
+Oral presentation at Climatic and Biotic Events of the Paleogene 2026.
+
+*Washington, DC, USA*
+:::
+
+::: {.timeline-item}
+**2025**
+
+### NSF-NCAR CESM Paleoclimate Working Group Meeting
+
+Oral presentation on global soot deposition constraints for transient soot injection simulations.
+
+*Boulder, CO, USA*
+:::
+
+::: {.timeline-item}
+**2025**
+
+### GSA Fall Meeting
+
+Oral presentation on soot-emission origins associated with the Chicxulub impact.
+
+*San Antonio, TX, USA*
+:::
+
+::: {.timeline-item}
+**2024**
+
+### AGU Fall Meeting
+
+Oral presentation on simulating the effects of emissions from meteor impacts.
+
+*Washington, DC, USA*
+:::
+
+::: {.timeline-item}
+**2023**
+
+### AGU Fall Meeting
+
+Poster on organic coating effects on soot emissions at the K-Pg mass extinction event.
+
+*San Francisco, CA, USA*
+:::
+
+::: {.timeline-item}
+**2022**
+
+### AGU Fall Meeting
+
+Poster on soot-emission uncertainty after an asteroid impact at the K-Pg boundary.
+
+*Chicago, IL, USA*
+:::
+:::

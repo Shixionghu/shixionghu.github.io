@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/
+    - CNAME
+
+website:
+  title: "Shixiong Hu"
+  description: "CESM and paleoclimate modeling research hub for Shixiong Hu."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: toolkit.qmd
+        text: Toolkit
+      - href: notes.qmd
+        text: Notes
+      - href: contact.qmd
+        text: Contact
+    right:
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?hl=en&user=bmFRpDwAAAAJ&view_op=list_works&sortby=pubdate
+  page-footer:
+    left: "© 2026 Shixiong Hu"
+    right:
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?hl=en&user=bmFRpDwAAAAJ&view_op=list_works&sortby=pubdate
+
+format:
+  html:
+    theme: cosmo
+    css: quarto-styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    page-layout: full

@@ -1,0 +1,50 @@
+---
+title: "Research"
+description: "Research themes for Shixiong Hu's CESM and paleoclimate modeling work."
+---
+
+::: {.eyebrow}
+Research Themes
+:::
+
+# What the hub should make visible.
+
+Organized around problems rather than chronology, so collaborators can see where methods, evidence, and climate questions meet.
+
+::: {.theme-grid}
+::: {.theme-card}
+**01**
+
+### K-Pg impact climate dynamics
+
+Simulating atmospheric, radiative, and surface-climate responses to impact-related soot and aerosol emissions at the Cretaceous-Paleogene boundary.
+:::
+
+::: {.theme-card}
+**02**
+
+### CESM paleoclimate experiments
+
+Designing transient and sensitivity experiments that translate geological hypotheses into testable coupled-model behavior.
+:::
+
+::: {.theme-card}
+**03**
+
+### Proxy-model constraints
+
+Using soot, charcoal, total carbon deposition, isotopic evidence, and boundary-section records to evaluate plausible climate-forcing scenarios.
+:::
+
+::: {.theme-card}
+**04**
+
+### Chemistry, UV, and refugia
+
+Exploring ozone depletion, UV exposure, low-light stress, hydrologic disruption, and climate refugia potential during Earth system recovery.
+:::
+:::
+
+## Current Direction
+
+Current work develops K-Pg aerosol sensitivity simulations that isolate the roles of soot, dust, and sulfate in global catastrophe and post-impact recovery. The broader goal is to connect emission-source hypotheses to observable geological records and physically interpretable climate outcomes.
