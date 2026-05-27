@@ -3,7 +3,6 @@ project:
   output-dir: docs
   resources:
     - assets/
-    - CNAME
 
 website:
   title: "Shixiong Hu"
