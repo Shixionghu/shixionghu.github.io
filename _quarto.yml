@@ -3,9 +3,11 @@ project:
   output-dir: docs
   resources:
     - assets/
+    - robots.txt
 
 website:
   title: "Shixiong Hu"
+  site-url: "https://shixionghu.github.io"
   description: "CESM and paleoclimate modeling research hub for Shixiong Hu."
   navbar:
     left:
